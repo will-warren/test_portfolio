@@ -20,7 +20,7 @@ $ pip install -r requirements.txt
 ```
 Export path
 ```
-$ export PATH:$PATH:~/bin
+$ export PATH=$PATH:~/bin
 ```
 Run Tests
 ```
@@ -34,11 +34,13 @@ $ python3 portfolio_test.py
   - correct link text for desktop
   - correct link css image class for small screen/mobile
   - correct link address
+  - correct accordion functionality
   - each portfolio piece has buttons for its live demo, github, and external
   sources(optional)
 
 #### Later additions
-1. Extensively Test each live demo in my portfolio accordian
+1. Extensively Test each live demo in my portfolio accordion, using nosetests,
+pytests, or unitttest.
 
 #### Author
-[Will Warren](https://willwile4.github.io)
+* [Will Warren](https://willwile4.github.io)
