@@ -18,6 +18,10 @@ Install requirements
 ```
 $ pip install -r requirements.txt
 ```
+Export path
+```
+$ export PATH:$PATH:~/bin
+```
 Run Tests
 ```
 $ python3 portfolio_test.py
