@@ -18,7 +18,6 @@ class PortfolioTestChrome(unittest.TestCase):
         self.addCleanup(self.driver.quit)
 
     def validate_url(self, url):
-        print("Self: {}, acutal {}".format(self.driver.current_url, url))
         return self.driver.current_url == url
 
     def testPageTitle(self):
