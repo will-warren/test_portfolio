@@ -3,7 +3,7 @@
 ## Objectives
 1. To become more familiar with automation using Selenium
 2. To make sure my portfolio page performs correctly through various browers.
-3. To learn and see how I can better write web apps for tests in the future
+3. To learn how to better write web apps for automated tests in the future
 
 ## Tools
 1. Selenium
@@ -38,7 +38,7 @@ $ python3 portfolio_test.py
   sources(optional)
 
 #### Later additions
-1. Test each live demo
+1. Extensively Test each live demo in my portfolio accordian
 
 #### Author
 [Will Warren](https://willwile4.github.io)
